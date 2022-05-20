@@ -1,0 +1,52 @@
+---
+documentclass: apa7
+classoption:
+- doc
+- a4paper
+- 12pt
+- spanish
+- biblatex
+
+lang: es-ES
+
+linestretch: 1.5
+indent: 0.5in
+
+bibliography: referencias.bib
+csl: archivos/apa7.csl
+
+header-includes: |
+  \usepackage{pdflscape, tocloft, csvsimple}
+
+  \geometry{margin=1in}
+
+  \newcommand\n[0]{\hfill\break}
+
+  \newcommand\T[0]{\vspace{1pt}\qquad}
+
+  \newcounter{figuras}
+  \newcommand\figura[2]{
+    \phantomsection\refstepcounter{figuras}
+    \addcontentsline{lof}{subsection}{Figura \arabic{figuras}. #2}\textbf{Figura \arabic{figuras}}\label{#1}\hfill\break\textit{#2}}
+
+  \newcounter{tablas}
+  \newcommand\tabla[2]{
+    \phantomsection\refstepcounter{tablas}
+    \addcontentsline{lot}{subsection}{Tabla \arabic{tablas}. #2}\textbf{Tabla \arabic{tablas}}\label{#1}\hfill\break\textit{#2}}
+
+  
+  \newcommand{\listannexesname}{\large Lista de anexos}
+  \newlistof{annexes}{loa}{\listannexesname}
+  
+  \newcounter{anexos}
+  \newcommand\anexo[2]{
+    \phantomsection\refstepcounter{anexos}
+    \addcontentsline{loa}{subsection}{Anexo \arabic{anexos}. #2}\textbf{Anexo \arabic{anexos}\label{#1}.\ \textit{#2}}}
+
+  \addtocontents{toc}{\protect\thispagestyle{empty}}
+  \addtocontents{lof}{\protect\thispagestyle{empty}}
+  \addtocontents{lot}{\protect\thispagestyle{empty}}
+  \addtocontents{loa}{\protect\thispagestyle{empty}}
+
+  \newcommand\tsv[1]{
+    {\tiny\csvautolongtable[respect all, separator=tab]{#1.tsv}}}
