@@ -4,7 +4,8 @@ tesis=archivos/tesis-usat.tex
 articulo=archivos/articulo-usat.tex
 proyecto=archivos/proyecto-usat.tex
 
-.PHONY: tesis articulo proyecto
+.PHONY: all tesis articulo proyecto
+all: tesis articulo proyecto
 
 tesis:
 	pandoc -o Tesis.pdf -f markdown \
