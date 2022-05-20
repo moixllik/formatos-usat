@@ -18,6 +18,12 @@ make articulo
 make proyecto
 ```
 
+Ejemplo de documentos PDF generados: 
+
+* [Informe de Tesis](Tesis.pdf)
+* [Artículo de Revisión](Articulo.pdf)
+* [Proyecto de Investigación](Proyecto.pdf)
+
 ## Instalación
 
 ### Windows
