@@ -28,10 +28,8 @@ Ejemplo de documentos PDF generados:
 
 ### Windows
 
-Es recomendable usar [WSL](https://docs.microsoft.com/es-mx/windows/wsl/install) y 
-obtener un ambiente de trabajo basado en linux. También se pueden instalar los
-programas en su versión para Windows usando [Chocolatey](https://chocolatey.org/install) 
-(ver las guías de instalación en nuestra [Wiki](https://github.com/moixllik/formatos-usat/wiki)).
+Para instalar en Windows se recomienda usar [Chocolatey](https://chocolatey.org/install) 
+(ver [guía de instalación](https://github.com/moixllik/formatos-usat/wiki/Gu%C3%ADa-para-instalar-en-Windows)).
 
 ### Linux
 
