@@ -20,9 +20,9 @@ make proyecto
 
 Ejemplo de documentos PDF generados: 
 
-* [Informe de Tesis](Tesis.pdf)
-* [Artículo de Revisión](Articulo.pdf)
-* [Proyecto de Investigación](Proyecto.pdf)
+* [Informe de Tesis](tesis.pdf)
+* [Artículo de Revisión](articulo.pdf)
+* [Proyecto de Investigación](proyecto.pdf)
 
 ## Instalación
 
@@ -30,7 +30,7 @@ Ejemplo de documentos PDF generados:
 
 Es recomendable usar [WSL](https://docs.microsoft.com/es-mx/windows/wsl/install) y 
 obtener un ambiente de trabajo basado en linux. También se pueden instalar los
-programas en su versión para MS Windows 10+ usando [Chocolatey](https://chocolatey.org/install) 
+programas en su versión para Windows usando [Chocolatey](https://chocolatey.org/install) 
 (ver las guías de instalación en nuestra [Wiki](https://github.com/moixllik/formatos-usat/wiki)).
 
 ### Linux
