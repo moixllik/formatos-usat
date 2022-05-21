@@ -8,11 +8,14 @@ else
 	files+=$@/*.md
 endif
 
-
-tesis articulo proyecto: Makefile
+tesis articulo proyecto: FORCE
 	pandoc $(citeproc) -o $@.pdf -f markdown \
 		--metadata-file=archivos/configuracion.yaml \
 		informacion.tex archivos/$@.tex \
 		$(files)
 
-.PONY: tesis articulo proyecto
+.PONY: FORCE
+FORCE:
+	@echo ===========================
+	@echo Creando $(MAKECMDGOALS).pdf
+	@echo ===========================
