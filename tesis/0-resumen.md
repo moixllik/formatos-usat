@@ -1,8 +1,8 @@
 ## Resumen
 
-_Palabras clave_:
+*Palabras clave:*
 
 
 ## Abstract
 
-_Keywords_:
+*Keywords:*
