@@ -50,14 +50,3 @@ El presente formato se ha realizado bajo guía de las docentes de la
 * [Beltran Portilla, Flor de María](mailto:mbeltran@usat.edu.pe)
 * [Carranza Torres, Maribel](mailto:mcarranza@usat.edu.pe)
 * [Alayo Palomino, Cecilia del Rosario](mailto:calayo@usat.edu.pe)
-
-## Recomendaciones
-
-* Se recomienda usar como editor de texto [VS Code](https://code.visualstudio.com/), almacenar 
-los archivos en [GitHub](https://github.com/) o [Google Drive](https://www.google.com/drive/download/).
-
-* Para procesar datos estadísticos generando gráficos y tablas se recomienda 
-[Google Colab](https://colab.research.google.com/).
-
-* Finalmente para las referencias se recomienda usar el formato [BibTeX](http://www.bibtex.org/Format/) 
-que también es ofrecido por [Google Académico](https://scholar.google.com/).
