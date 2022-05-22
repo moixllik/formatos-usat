@@ -1,4 +1,4 @@
-## RESUMEN
+## Resumen
 
 El resumen debe ser conciso y claro, haciendo referencia al objetivo del trabajo de 
 investigación, metodología (de ser el caso) y resaltando los resultados más importantes. 
@@ -18,7 +18,7 @@ especializados:
 _Palabras clave_: apa, artículo, usat, formato
 
 
-## ABSTRACT
+## Abstract
 
 The summary must be concise and clear, referring to the objective of the research work, 
 methodology (if applicable) and highlighting the most important results.

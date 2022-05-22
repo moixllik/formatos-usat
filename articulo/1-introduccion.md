@@ -1,6 +1,6 @@
 \newpage
 
-## INTRODUCCIÓN
+## Introducción
 
 La introducción debe proveer al lector de los siguientes datos:
 

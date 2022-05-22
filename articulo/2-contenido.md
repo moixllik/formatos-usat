@@ -1,10 +1,12 @@
-## DESARROLLO Y DISCUSIÓN
+\newpage
+
+## Contenido
 
 Desarrolla los objetivos del artículo en base a fuentes referenciales las cuales
 permiten realizar una discusión de los resultados. Se deben incluir tablas, gráficos
 y figuras.
 
-\newpage
+### Uso de tablas
 
 > \tabla{tabla_1}{Tabla estilo APA agregada a la lista de tablas}
 
@@ -30,6 +32,8 @@ registro            | numero            | 4
 > Fuente: Adaptado de @referencia_id_1.\n
 
 \newpage
+
+### Uso de figuras
 
 +-----------------------+
 | ![](datos/figura.png) |
@@ -77,7 +81,7 @@ del texto] o usando etiquetas [^etiqueta] de referencia.
 
 [^etiqueta]: Nota con etiqueta.
 
-**Comandos de ayuda**
+### Comandos de ayuda
 
 * Para insertar una línea de separación, usar: `\n`
 * Para insertar un espacio tabular, usar: `\T`

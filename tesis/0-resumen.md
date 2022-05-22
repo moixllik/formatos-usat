@@ -17,8 +17,6 @@ especializados:
 
 _Palabras clave_: apa, artículo, usat, formato
 
-\newpage
-
 
 ## Abstract
 
