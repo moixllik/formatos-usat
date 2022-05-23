@@ -45,10 +45,10 @@ y figuras.
 
 | | |
 |:-: | -:
-| ![](datos/figura.png) | ![](datos/figura.png) |
-| Centrada | A la derecha          |
-| ![](datos/figura.png) | ![](datos/figura.png) |
-| Parte A | Parte B |
+| ![](datos/figura.png) | ![](datos/figura.png)
+| Centrada | A la derecha
+| ![](datos/figura.png) | ![](datos/figura.png)
+| Parte A | Parte B
 
 > \figura{figura_2}{Figura en partes dentro de una tabla justificada}
 > Fuente: Adaptado de @referencia_id_3.\n
@@ -64,7 +64,7 @@ $$Activo - Pasivo = Patrimonio\ neto$$
 > \figura{figura_3}{Fórmula agregada a la lista de figuras}
 > Fuente: Adaptado de @referencia_id_1.\n
 
-|
+| |
 | -
 | $$a^2 + b^2 = c^2$$
 

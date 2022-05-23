@@ -8,18 +8,18 @@ tesis. Se sugiere sea elaborada quincenalmente.
 
 > \tabla{tabla_cronograma}{Cronograma de la investigación}
 
-| Objetivos específicos     | Actividades o tareas      | Fecha 1   | Fecha 2   | Fecha 3   | Fecha 4
-|---------------------      |--------------------       |:-------:  |:-------:  |:-------:  |:-------:
-| 1. Objetivo específico    | Tarea o actividad 1       | x         |           |           |
-|                           | Tarea o actividad 2       | x         |           |           |
-|                           |                           |           |           |           |
-| 2. Objetivo específico    | Tarea o actividad 1       |           | x         |           |
-|                           | Tarea o actividad 2       |           | x         |           |
-|                           |                           |           |           |           |
-| 3. Objetivo específico    | Tarea o actividad 1       |           |           | x         |
-|                           | Tarea o actividad 2       |           |           | x         |
-|                           |                           |           |           |           |
-| 4. Objetivo específico    | Tarea o actividad 1       |           |           |           | x
-|                           | Tarea o actividad 2       |           |           |           | x
+| Objetivos específicos | Actividades o tareas | Fecha 1 | Fecha 2 | Fecha 3 | Fecha 4
+| - | - | :-: | :-: | :-: | :-:
+| 1. Objetivo específico | Tarea o actividad 1 | x
+| | Tarea o actividad 2 | x
+|
+| 2. Objetivo específico | Tarea o actividad 1 | | x
+| | Tarea o actividad 2 | | x
+|
+| 3. Objetivo específico | Tarea o actividad 1 | | | x
+| | Tarea o actividad 2 | | | x
+|
+| 4. Objetivo específico | Tarea o actividad 1 | | | | x
+| | Tarea o actividad 2 | | | | x
 
 \endlandscape
