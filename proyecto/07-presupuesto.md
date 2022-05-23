@@ -12,14 +12,14 @@ desarrollo de la tesis.
 | 1.1. Recurso | | 0 | | 0.00 
 | 1.2. Recurso | | 0 | | 0.00 
 | Total bienes | | | | 0.00 
-|
+| |
 | 2. Servicios | | | | 
 | 2.1. Recurso | | 0 | | 0.00 
 | 2.2. Recurso | | 0 | | 0.00 
 | Total servicios | | | | 0.00 
-|
+| |
 | 3. Otros gastos | | 0 | | 0.00 
 | 4. Sustentación | | 0 | | 0.00 
 | 5. Bachillerato | | 0 | | 0.00 
-|
+| |
 | Total investigación | | | | 0.00

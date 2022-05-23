@@ -12,13 +12,13 @@ tesis. Se sugiere sea elaborada quincenalmente.
 | - | - | :-: | :-: | :-: | :-:
 | 1. Objetivo específico | Tarea o actividad 1 | x
 | | Tarea o actividad 2 | x
-|
+| |
 | 2. Objetivo específico | Tarea o actividad 1 | | x
 | | Tarea o actividad 2 | | x
-|
+| |
 | 3. Objetivo específico | Tarea o actividad 1 | | | x
 | | Tarea o actividad 2 | | | x
-|
+| |
 | 4. Objetivo específico | Tarea o actividad 1 | | | | x
 | | Tarea o actividad 2 | | | | x
 
