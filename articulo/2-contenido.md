@@ -10,24 +10,24 @@ y figuras.
 
 > \tabla{tabla_1}{Tabla estilo APA agregada a la lista de tablas}
 
-Cabecera    de la       tabla
---------    -----       -----
-registro    numero      1
-registro    numero      2
-registro    numero      3
-registro    numero      4
+| Cabecera | de la | tabla
+| - | - | -
+| registro | numero | 1
+| registro | numero | 2
+| registro | numero | 3
+| registro | numero | 4
 
 > Fuente: Adaptado de @referencia_id_1.\n
 
 
 > \tabla{tabla_2}{Tabla justificada}
 
-A la izquierda      | A la derecha      | Centrado
---------------      | -----------:      | :-----:
-registro            | numero            | 1
-registro            | numero            | 2
-registro            | numero            | 3
-registro            | numero            | 4
+| A la izquierda | A la derecha | Centrado
+| - | -: | :-:
+| registro | numero | 1
+| registro | numero | 2
+| registro | numero | 3
+| registro | numero | 4
 
 > Fuente: Adaptado de @referencia_id_1.\n
 
@@ -35,21 +35,20 @@ registro            | numero            | 4
 
 ### Uso de figuras
 
-+-----------------------+
-| ![](datos/figura.png) |
-+-----------------------+
+| |
+| -
+| ![](datos/figura.png)
+ 
 
 > \figura{figura_1}{Figura estilo APA agregada a la lista de figuras}
 > Fuente: Adaptado de @referencia_id_2.
 
-+:---------------------:+----------------------:+
+| | |
+|:-: | -:
 | ![](datos/figura.png) | ![](datos/figura.png) |
-|                       |                       |
-| Centrada              | A la derecha          |
+| Centrada | A la derecha          |
 | ![](datos/figura.png) | ![](datos/figura.png) |
-|                       |                       |
-| Parte A               | Parte B               |
-+-----------------------+-----------------------+
+| Parte A | Parte B |
 
 > \figura{figura_2}{Figura en partes dentro de una tabla justificada}
 > Fuente: Adaptado de @referencia_id_3.\n
@@ -65,9 +64,9 @@ $$Activo - Pasivo = Patrimonio\ neto$$
 > \figura{figura_3}{Fórmula agregada a la lista de figuras}
 > Fuente: Adaptado de @referencia_id_1.\n
 
----------------------------
-$$a^2 + b^2 = c^2$$
----------------------------
+|
+| -
+| $$a^2 + b^2 = c^2$$
 
 > \figura{figura_4}{Fórmula dentro de una tabla}
 > Fuente: Adaptado de @referencia_id_1.\n

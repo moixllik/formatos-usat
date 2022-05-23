@@ -15,7 +15,7 @@ especializados:
 * Para Derecho e Ingeniería Catálogo BNE: https://bit.ly/2S6bMLI
 * Para Humanidades el Tesauro de la UNESCO: https://bit.ly/2vTlCHX
 
-_Palabras clave_: apa, artículo, usat, formato
+*Palabras clave: apa, artículo, usat, formato*
 
 
 ## Abstract
@@ -25,4 +25,4 @@ methodology (if applicable) and highlighting the most important results.
 It must be written in a running text, that is, without paragraphs and must have a 
 minimum of 150 words and a maximum of 250.
 
-_Keywords_: apa, article, usat, format
+*Keywords: apa, article, usat, format*
