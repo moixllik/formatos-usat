@@ -2,7 +2,7 @@ citeproc=
 files=
 ifeq ($(OS), Windows_NT)
 	citeproc+=--citeproc
-	files+=$(shell dir /b $@ | sed "s/^/$@\\/")
+	files+=$(shell dir /b $@ | sort | sed "s/^/$@\\/")
 else
 	citeproc+=--filter=pandoc-citeproc
 	files+=$@/*.md

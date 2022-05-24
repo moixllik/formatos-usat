@@ -1,6 +1,6 @@
 \newpage
 
-## Contenido
+## Desarrollo y discusión
 
 Desarrolla los objetivos del artículo en base a fuentes referenciales las cuales
 permiten realizar una discusión de los resultados. Se deben incluir tablas, gráficos
@@ -12,24 +12,24 @@ y figuras.
 
 | Cabecera | de la | tabla
 | - | - | -
-| registro | numero | 1
-| registro | numero | 2
-| registro | numero | 3
-| registro | numero | 4
+| registro | número | 1
+| registro | número | 2
+| registro | número | 3
+| registro | número | 4
 
-> Fuente: Adaptado de @referencia_id_1.\n
+> Nota: Adaptado de @referencia_id_1.\n
 
 
 > \tabla{tabla_2}{Tabla justificada}
 
 | A la izquierda | A la derecha | Centrado
 | - | -: | :-:
-| registro | numero | 1
-| registro | numero | 2
-| registro | numero | 3
-| registro | numero | 4
+| registro | número | 1
+| registro | número | 2
+| registro | número | 3
+| registro | número | 4
 
-> Fuente: Adaptado de @referencia_id_1.\n
+> Nota: Adaptado de @referencia_id_1.\n
 
 \newpage
 
@@ -41,7 +41,7 @@ y figuras.
  
 
 > \figura{figura_1}{Figura estilo APA agregada a la lista de figuras}
-> Fuente: Adaptado de @referencia_id_2.
+> Nota: Adaptado de @referencia_id_2.
 
 | | |
 |:-: | -:
@@ -51,7 +51,7 @@ y figuras.
 | Parte A | Parte B
 
 > \figura{figura_2}{Figura en partes dentro de una tabla justificada}
-> Fuente: Adaptado de @referencia_id_3.\n
+> Nota: Adaptado de @referencia_id_3.\n
 
 \newpage
 
@@ -62,14 +62,14 @@ S/1,000,000.00 es el 55.74% de los ingresos.
 $$Activo - Pasivo = Patrimonio\ neto$$
 
 > \figura{figura_3}{Fórmula agregada a la lista de figuras}
-> Fuente: Adaptado de @referencia_id_1.\n
+> Nota: Adaptado de @referencia_id_1.\n
 
 | |
 | -
 | $$a^2 + b^2 = c^2$$
 
 > \figura{figura_4}{Fórmula dentro de una tabla}
-> Fuente: Adaptado de @referencia_id_1.\n
+> Nota: Adaptado de @referencia_id_1.\n
 > Donde:\n
 > \T $a, b$.- Longitud de catetos.\n
 > \T $c$.- Longitud de hipotenusa.\n
