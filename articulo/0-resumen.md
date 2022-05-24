@@ -1,8 +1,9 @@
 ## Resumen
 
-*Palabras clave:*
+**Palabras clave:** *...*
 
+\newpage
 
 ## Abstract
 
-*Keywords:*
+**Keywords:** *...*
