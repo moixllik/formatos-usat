@@ -13,7 +13,7 @@ especializados:
 * Para Salud el DECS https://bit.ly/2GYl99L
 * Para Empresariales el JEL: https://bit.ly/2S6b6WG
 * Para Derecho e Ingeniería Catálogo BNE: https://bit.ly/2S6bMLI
-* Para Humanidades el Tesauro de la UNESCO: https://bit.ly/2vTlCHX
+* Para Humanidades el Tesauro de la UNESCO: https://bit.ly/2vTlCHX\n
 
 **Palabras clave**: *apa, artículo, usat, formato*
 
@@ -24,6 +24,6 @@ especializados:
 The summary must be concise and clear, referring to the objective of the research work, 
 methodology (if applicable) and highlighting the most important results.
 It must be written in a running text, that is, without paragraphs and must have a 
-minimum of 150 words and a maximum of 250.
+minimum of 150 words and a maximum of 250.\n
 
 **Keywords**: *apa, article, usat, format*
